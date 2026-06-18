@@ -1,0 +1,27 @@
+SkyTime Version 1.0 Release Notes
+
+This release represents the first public production release of the SkyTime GPS/PPS disciplined Stratum-1 NTP Server.
+
+Highlights:
+
+- Complete Stratum-1 NTP implementation
+- GPS/PPS disciplined timing
+- Web-based dashboard
+- System status page
+- Event log viewer
+- NTP log viewer
+- Identity configuration
+- Network configuration
+- Configuration persistence
+- Web-based reboot control
+- Licensing and attribution documentation
+
+Release Defaults:
+- System: SkyTime
+- Role: Standalone
+- Site Name: Enter Location in Configuration
+- Static IP: 192.168.0.123
+- Subnet Mask: 255.255.255.0
+- Gateway: 192.168.0.1
+
+Version 1.0 was validated on dual SkyTime systems installed in a dedicated 10-inch rack enclosure.

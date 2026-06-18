@@ -1,0 +1,11 @@
+PlatformIO Notes
+
+SkyTime Version 1.0 was developed and validated using Visual Studio Code and PlatformIO.
+
+Because ESP32-P4 support is still evolving, the exact platformio.ini used during development is included with this release.
+
+Users are strongly encouraged to use the included platformio.ini when building Version 1.0.
+
+File to include before publication:
+
+VisualStudioCode/platformio.ini

@@ -1,0 +1,40 @@
+SkyTime Stratum-1 NTP Server
+
+Version: 1.0
+Release Date: June 2026
+Status: Production Release
+
+Author:
+RPMof78
+
+License:
+GNU General Public License Version 3 or later
+
+SPDX:
+GPL-3.0-or-later
+
+========================================================
+Release Summary
+========================================================
+
+SkyTime is a GPS/PPS disciplined Stratum-1 NTP Server built on the Waveshare ESP32-P4-ETH PoE platform.
+
+Version 1.0 represents the first public production release of the SkyTime project.
+
+========================================================
+Validation
+========================================================
+
+- Multiple overnight burn-ins
+- Dual SkyTime hardware validation
+- DHCP validation
+- Static IP validation
+- NTP validation
+- GPS validation
+- Configuration validation
+- Logging validation
+- Reboot validation
+- Peer review completed
+
+Open Defects:
+0
